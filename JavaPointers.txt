@@ -1,0 +1,62 @@
+﻿udemy
+
+core java concepts
+	vm concepts
+	collections framework
+	multithreading f/w
+	volatile, situtational
+
+spring framework
+	dependency injection
+	transaction management
+	spring boot: Spring starter project
+
+	lombok
+	https://spring.io/projects/spring-boot : additional libs facilities
+	https://start.spring.io/: Use Add dependencies
+
+	Apache Kafka for messaging + Zookeeper (centralized configuration)
+
+	Spring sample projects
+
+	Spring project: 
+	$100 license for IJ
+
+- Using spring create java REST services.
+
+Java 8: Streaming, lambda features: main one
+11: check new features.
+
+
+
+- ECS: Deployment platform - openshift (is a version of koobernetics), koobernetics; docker image config.
+how yaml is constructed
+Jenkins, teamcity build tools
+continous integration
+
+
+- Cloud programming: AWS - trial coding: Amazon API; Koobernetics
+
+- Nano services in Amazon (latest) Fast (Function as services)- services
+
+- Microservices: Single responsibility pattern communicate via REST
+	* Easy deplooyment on cloud
+
+
+- Kotlin: 
+	specify if not-null.
+
+
+* AWS certification - 1 to 4; 1st is entry level; 
+
+* Data science: High paying job
+* Cloud and data science: Combined course is very good.
+
+
+************ Web UI development
+
+- React.JS, Angular.JS
+(nodejs same place code for both client & server: both for client & server)
+
+* GS, JP; Fintech
+

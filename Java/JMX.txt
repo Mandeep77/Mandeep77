@@ -1,0 +1,15 @@
+﻿In Java 1.5 onwards
+
+***** Java bean
+POJO == Java bean
+
+Its just a standard.
+Props private (getter/setters)
+public 0 arg c'tor
+Serializable (implement Serializable i/f) 
+
+Thus object can be : Written to streams; files/ object databases etc.
+
+****** Java MBeans
+
+Managed Java object just like Java bean
