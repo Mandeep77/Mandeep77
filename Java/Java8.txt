@@ -1,5 +1,0 @@
-﻿
-***** Java streams
-
-Optional
-

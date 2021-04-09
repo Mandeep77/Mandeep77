@@ -1,8 +1,0 @@
-﻿Small set of services easy to build and deploy that interact with each other via REST
-
-Benefit: 
-	- Scalable: as small parts exist and each can scale independently.
-		(e.g. just like Java storm bolts can scale up independently)
-
-Cons:
-	- In a single process the communication between APIs is straight forward.
