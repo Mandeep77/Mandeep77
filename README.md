@@ -1,9 +1,3 @@
-Hi,
-	I'm Mandeep.
-Sample project for Java to learn stuff.
-
-Looking to explore together further features in java world!!
-
 You can reach me : mandeepsinghbhatia77@gmail.com
 
 <!---
