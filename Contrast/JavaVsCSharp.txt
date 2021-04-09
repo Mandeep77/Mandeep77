@@ -1,4 +1,0 @@
-﻿
-c# pros:
-
-* Extension methods enabling NLP like stuff.
